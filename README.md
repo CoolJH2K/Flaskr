@@ -1,4 +1,6 @@
 # Flaskr
+## Disclaimer
+AS OF APRIL 16, 2024, THIS REPO IS NOW ARCHIVED
 ## Description
 In which I follow another Flask tutorial, this time from the official Flask website.
 ### Why did I make this?
